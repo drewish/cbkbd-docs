@@ -24,6 +24,9 @@ A series of 40% PCBs sold by Coffee Break Keyboards, compatible with many Miniva
 [Firmware UF2](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/raw/main/coffeevan/firmware/coffeevan_vial.uf2)
 <br>
 [Firmware Source](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/coffeevan/firmware/coffeevan/)
+<br>
+[Plate File](https://trashman.wiki/files/minisub/minisub-plate.dxf)
+
 
 
 
