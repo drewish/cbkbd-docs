@@ -3,7 +3,8 @@ A 4x10 ortholinear keyboard kit sold by Coffee Break Keyboards.
 ![Acai GB Render](https://assets.bigcartel.com/product_images/370698571/0001.png)
 
 ## Layouts
-![Layouts](https://assets.bigcartel.com/product_images/370664416/Screenshot+from+2023-10-20+13-49-15.png)
+![Layouts](https://assets.bigcartel.com/product_images/370698571/0001.png?auto=format&fit=min&w=768)
+<br>
 [KLE Link](http://www.keyboard-layout-editor.com/#/gists/77bd85720ab9e023d427c6db60f08b49)
 
 
