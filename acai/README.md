@@ -23,13 +23,14 @@ A 4x10 ortholinear keyboard kit sold by Coffee Break Keyboards.
 <br>
 [PCB .DXF](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/raw/main/acai/acai_pcb.dxf)
 <br>
+[Plate .STEP](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/acai/acai_mx_plate.step)
+<br>
+[Plate .DXF](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/acai/acai_mx_plate.dxf)
+<br>
 [Firmware UF2](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/raw/main/acai/firmware/quark_works_acai_vial.uf2)
 <br>
 [Firmware Source](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/acai/firmware/acai/)
-<br>
-[Plate .STEP](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/acai/acai_mx_plate.step)
-<br>
-[Plate .STEP](https://github.com/CoffeeBreakKeyboards/cbkbd-docs/acai/acai_mx_plate.dxf)
+
 
 
 
